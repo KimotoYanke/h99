@@ -1,3 +1,7 @@
+module M0110
+  ( encode
+  )
+where
 import           Prelude
 
 myLast :: [a] -> a
